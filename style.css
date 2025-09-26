@@ -1,0 +1,90 @@
+.section {
+  background-color: #ffc369;
+  width: 100%;
+  min-width: 1920px;
+  min-height: 2160px;
+  position: relative;
+}
+
+.section .the-lite-still {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+
+.section .top-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 200px;
+  background-color: #c16b37;
+}
+
+.section .text-wrapper {
+  position: absolute;
+  top: 44px;
+  left: 28px;
+  width: 369px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.section .div {
+  position: absolute;
+  top: 44px;
+  left: 960px;
+  width: 369px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.section .the-t-lite-still {
+  position: absolute;
+  top: 1080px;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+}
+
+.section .button {
+  position: absolute;
+  top: 1783px;
+  left: 146px;
+  width: 800px;
+  height: 200px;
+  background-color: #d9d9d9;
+  border-radius: 16px;
+}
+
+.section .text-wrapper-2 {
+  position: absolute;
+  top: 1826px;
+  left: 311px;
+  width: 470px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
